@@ -40,15 +40,10 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<p>
-
-
-
-
-
-
-  
-</p>
+<br/><br>
+<br/><br>
+<br/><br>
+<br/><br>
 
 
 
