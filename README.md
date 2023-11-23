@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> KimTaeHyeok</h1>
-
 <h3>🤗목표</h3>
 백엔드에 관심이 많으며, aws를 통해 서버를 구축하는 것이 현재 목표입니다
 
