@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>🤗목표</h3>
-백엔드에 관심이 많으며, aws를 통해 서버를 구축하는 것이 현재 목표입니다
+<h3>목표</h3>
+백엔드에 관심이 많으며 백엔드 개발자가 되기 희망합니다
 
 <h3>🛠사용언어</h3>
 <div>
