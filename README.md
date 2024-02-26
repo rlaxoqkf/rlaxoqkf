@@ -41,6 +41,5 @@
 
 ### 🚌 Status
 <img src="https://github-readme-stats.vercel.app/api?username=rlaxoqkf&theme=vue&show_icons=true&layout=compact"/></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxoqkf&layout=compact)
 
 
